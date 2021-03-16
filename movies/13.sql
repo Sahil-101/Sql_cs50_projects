@@ -1,3 +1,5 @@
+--a SQL query to list the names of all people who starred in a movie in which Kevin Bacon also starred
+
 select name
 from people
 join stars on people.id = stars.person_id

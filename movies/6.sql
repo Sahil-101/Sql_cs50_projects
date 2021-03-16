@@ -1,3 +1,5 @@
+--a SQL query to determine the average rating of all movies released in 2012.
+
 .header on
 -- avg usage
 
